@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 p {
     color:rgb(135, 222, 176);
     text-transform: uppercase;
@@ -10,12 +10,14 @@ p {
 .support{
     color: blueviolet;
 }
+img{
+    margin-left: 50px;
+    width: 500px;
+    height: 700px;
+}
 
-.vibes{
-    display: flex;
-    justify-content: center;
-=======
-h1 {
-    color: rgb(242, 158, 41);
->>>>>>> Hotfix
+h1{
+    text-transform: uppercase;
+    color: blue;
+    text-align: center;
 }
